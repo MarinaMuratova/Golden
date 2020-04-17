@@ -401,7 +401,7 @@ text-align: center;
 }
 
 .list_partners .list__item:not(:last-child) {
-    margin-right: 41px;
+    margin-right: 40px;
 }
 
 /* partners end */
