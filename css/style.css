@@ -190,6 +190,10 @@ ul {
   justify-content: space-between;
 }
 
+.portfolio-item{
+background-color: #ffffff;
+}
+
 .portfolio-item:nth-child(1){
 margin-bottom: 45px;
 }
