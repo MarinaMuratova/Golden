@@ -136,8 +136,8 @@ box-sizing: border-box;
 /* services */
 
 .section {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .service-items {
@@ -280,7 +280,7 @@ box-sizing: border-box;
 background-color: #ffffff;
 }
 
-.portfolio-item:nth-child(1){
+.portfolio-item:nth-child(-n+3){
 margin-bottom: 45px;
 }
 
