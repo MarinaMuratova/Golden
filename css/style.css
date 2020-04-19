@@ -16,6 +16,14 @@ ul {
   list-style-type: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover{
+opacity: 0.6;
+}
+
 /*header*/
 
 .header {
@@ -127,6 +135,8 @@ ul {
 }
 
 .subtitle-section {
+  display: block;
+  text-transform: none;
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
